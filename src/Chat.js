@@ -22,6 +22,7 @@ function Chat() {
            </div>
 
            <div className="chat__HeaderRight">
+            <h1>rishabh</h1>
                 <IconButton>
                   <SearchOutlined/>
                 </IconButton>
